@@ -6,7 +6,7 @@
 ## Environment
 
 - Python 3.5+
-- Chainer
+- Chainer 2+
 - Numpy
 - Cupy
 
